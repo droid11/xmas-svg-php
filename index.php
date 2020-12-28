@@ -8,9 +8,9 @@
 
 </head>
 <body>
-	
-	
-	
+
+
+
 <?php ?>
 <!-- partial:index.partial.html -->
 <!--
@@ -81,7 +81,7 @@ Illustrations by Simon Kinslow and Lorena Teruel.
       <img class="svg-firstfloor" src="./svg/firstfloor.svg" alt="firstfloor">
       <img class="svg-secondfloor" src="./svg/secondfloor.svg" alt="secondfloor">
       <img class="svg-nativity" src="./svg/nativity.svg" alt="nativity">
-      
+
       <div class="illust-level illust-level--symbolsTown">
         <div class="illustItem illustItem--yuletide symbol symbol--yuletide">
           <h2 class="symbol-title">Seasons Greetings</h2>
@@ -90,7 +90,7 @@ Illustrations by Simon Kinslow and Lorena Teruel.
           <div class="illustItem illustItem--carols symbol symbol--carols">
             <h2 class="symbol-title">Merry Christmas</h2>
           </div>
-        </div
+        </div>
         <div class="symbols--inside inactive">
           <div class="illustItem illustItem--nutcracker symbol symbol--nutcracker">
             <h2 class="symbol-title">Tiny Tim</h2>
