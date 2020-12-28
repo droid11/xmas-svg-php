@@ -38,7 +38,7 @@ Illustrations by Simon Kinslow and Lorena Teruel.
         </div>
         <div class="illustItem illustItem--grotto illustItem--fence-arrow illustItem--fence-arrow-right symbol symbol--grotto">
           <img src="./svg/fence-arrow-right.svg" alt="Fence post Arrow Right">
-          <h2 class="symbol-title">Grotto</h2>
+          <h2 class="symbol-title">Oslo</h2>
         </div>
       </div>
       <div class="illustItem illustItem--holly symbol symbol--holly">
@@ -90,7 +90,7 @@ Illustrations by Simon Kinslow and Lorena Teruel.
           <div class="illustItem illustItem--carols symbol symbol--carols">
             <h2 class="symbol-title">Merry Christmas</h2>
           </div>
-        </div>
+        </div
         <div class="symbols--inside inactive">
           <div class="illustItem illustItem--nutcracker symbol symbol--nutcracker">
             <h2 class="symbol-title">Tiny Tim</h2>
